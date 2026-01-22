@@ -1,4 +1,4 @@
-# Michael Dillahunty
+# about
 
 <!--
 **`BS - Computer Science (December 2023)`**
